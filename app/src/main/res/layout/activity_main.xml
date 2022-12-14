@@ -80,5 +80,19 @@
         android:text="Age in Minutes "
         android:textColor="#B7B7B7"
         android:textSize="18sp" />
+    <TextView
+        android:id="@+id/tvSelectedDateInSeconds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:textColor="@color/textColor"
+        android:textSize="35sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age in Seconds "
+        android:textColor="#B7B7B7"
+        android:textSize="18sp" />
 
 </LinearLayout>
